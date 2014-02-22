@@ -387,4 +387,10 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
+<!-- AC100 Specific -->
+  <project path="kernel/toshiba/ac100" name="zombah/android_kernel_toshiba_ac100" remote="github" revision="refs/heads/rel-15r7-ac100-jellybean-cm-10.1-uboot" />
+  <project path="device/toshiba/paz00-common" name="zombah/android_device_toshiba_paz00-common" remote="github" revision="refs/heads/cm-10.1-uboot" />
+  <project path="device/toshiba/ac100" name="zombah/android_device_toshiba_ac100" remote="github" revision="refs/heads/cm-10.1-uboot" />
+  <project path="vendor/toshiba/paz00" name="zombah/android_vendor_toshiba_paz00" remote="github" revision="refs/heads/cm-10.1" />
+  <project path="hardware/compat-wireless" name="zombah/android_hardware_compat-wireless" remote="github" revision="refs/heads/compat-wireless-3.2.5-1" />
 </manifest>
