@@ -280,7 +280,7 @@
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
-  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" groups="pdk" />
+  <!--<project path="frameworks/native" name="CyanogenMod/android_frameworks_native" groups="pdk" />-->
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/carddav" name="CyanogenMod/android_frameworks_opt_carddav" />
   <project path="frameworks/opt/colorpicker" name="CyanogenMod/android_frameworks_opt_colorpicker" />
@@ -484,4 +484,5 @@
   <project path="hardware/compat-wireless" name="zombah/android_hardware_compat-wireless" remote="github" revision="refs/heads/compat-wireless-3.2.5-1" />
   <project path="hardware/backports" name="zombah/backports" remote="github" revision="refs/heads/backports-3.12.8-1" />
   <project path="external/bluetooth/bluedroid" name="zombah/android_external_bluetooth_bluedroid" remote="github" revision="refs/heads/cm-11.0-ac100" />
+  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" remote="github" revision="refs/heads/cm-11.0-ac100" />
 </manifest>
