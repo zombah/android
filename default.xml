@@ -237,7 +237,7 @@
   <project path="external/sepolicy" name="CyanogenMod/android_external_sepolicy" groups="pdk" />
   <project path="external/sfntly" name="platform/external/sfntly" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/sil-fonts" name="platform/external/sil-fonts" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="external/skia" name="CyanogenMod/android_external_skia" />
+  <!-- <project path="external/skia" name="CyanogenMod/android_external_skia" /> -->
   <project path="external/smack" name="platform/external/smack" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/smali" name="CyanogenMod/android_external_smali" />
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" groups="pdk" />
@@ -485,4 +485,5 @@
   <project path="hardware/backports" name="zombah/backports" remote="github" revision="refs/heads/backports-3.12.8-1" />
   <project path="external/bluetooth/bluedroid" name="zombah/android_external_bluetooth_bluedroid" remote="github" revision="refs/heads/cm-11.0-ac100" />
   <project path="frameworks/native" name="zombah/android_frameworks_native" remote="github" revision="refs/heads/cm-11.0-ac100" />
+  <project path="external/skia" name="zombah/android_external_skia" remote="github" revision="refs/heads/cm-11.0-ac100" /> 
 </manifest>
