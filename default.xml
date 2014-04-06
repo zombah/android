@@ -61,7 +61,7 @@
   <project path="external/bash" name="CyanogenMod/android_external_bash" />
   <project path="external/bison" name="CyanogenMod/android_external_bison" groups="pdk" />
   <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
-  <!-- <project path="external/bluetooth/bluedroid" name="CyanogenMod/android_external_bluetooth_bluedroid" groups="pdk" /> -->
+  <project path="external/bluetooth/bluedroid" name="CyanogenMod/android_external_bluetooth_bluedroid" groups="pdk" />
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" groups="pdk" />
   <project path="external/bson" name="CyanogenMod/android_external_bson" />
@@ -487,7 +487,7 @@
   <project path="vendor/toshiba/paz00" name="zombah/android_vendor_toshiba_paz00" remote="github" revision="refs/heads/cm-11.0" />
   <project path="hardware/compat-wireless" name="zombah/android_hardware_compat-wireless" remote="github" revision="refs/heads/compat-wireless-3.2.5-1" />
   <project path="hardware/backports" name="zombah/backports" remote="github" revision="refs/heads/backports-3.12.8-1" />
-  <project path="external/bluetooth/bluedroid" name="zombah/android_external_bluetooth_bluedroid" remote="github" revision="refs/heads/cm-11.0-ac100" />
+  <!-- <project path="external/bluetooth/bluedroid" name="zombah/android_external_bluetooth_bluedroid" remote="github" revision="refs/heads/cm-11.0-ac100" /> -->
   <project path="frameworks/native" name="zombah/android_frameworks_native" remote="github" revision="refs/heads/cm-11.0-ac100" />
   <project path="external/skia" name="zombah/android_external_skia" remote="github" revision="refs/heads/cm-11.0-ac100" />
   <project path="frameworks/av" name="zombah/android_frameworks_av" remote="github" revision="refs/heads/cm-11.0-ac100" />
