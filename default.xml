@@ -483,7 +483,7 @@
   <project path="kernel/toshiba/ac100" name="zombah/android_kernel_toshiba_ac100" remote="github" revision="refs/heads/rel-15r7-ac100-jellybean-cm-11.0-test" />
   <project path="kernel/toshiba/grouper" name="ac100-ru/android_kernel_asus_grouper" remote="github" revision="refs/heads/cm-11.0-ac100" />
   <project path="device/toshiba/paz00-common" name="zombah/android_device_toshiba_paz00-common" remote="github" revision="refs/heads/cm-11.0-test" />
-  <project path="device/toshiba/ac100" name="zombah/android_device_toshiba_ac100" remote="github" revision="refs/heads/cm-11.0" />
+  <project path="device/toshiba/ac100" name="zombah/android_device_toshiba_ac100" remote="github" revision="refs/heads/cm-11.0-test" />
   <project path="vendor/toshiba/paz00" name="zombah/android_vendor_toshiba_paz00" remote="github" revision="refs/heads/cm-11.0" />
   <project path="hardware/compat-wireless" name="zombah/android_hardware_compat-wireless" remote="github" revision="refs/heads/compat-wireless-3.2.5-1" />
   <project path="hardware/backports" name="zombah/backports" remote="github" revision="refs/heads/backports-3.12.8-1" />
