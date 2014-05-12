@@ -483,7 +483,7 @@
 
 <!-- AC100 Specific -->
   <project path="android" name="zombah/android" remote="github" revision="refs/heads/cm-11.0-tegra3" />
-  <project path="kernel/toshiba/grouper" name="ac100-ru/android_kernel_asus_grouper" remote="github" revision="refs/heads/cm-11.0-ac100" />
+  <project path="kernel/toshiba/grouper" name="ac100-ru/android_kernel_asus_grouper" remote="github" revision="refs/heads/cm-11.0-ac100-nvec-test" />
   <project path="device/toshiba/paz00-common" name="zombah/android_device_toshiba_paz00-common" remote="github" revision="refs/heads/cm-11.0-tegra3" />
   <project path="device/toshiba/ac100" name="zombah/android_device_toshiba_ac100" remote="github" revision="refs/heads/cm-11.0-tegra3" />
   <project path="vendor/toshiba/paz00" name="zombah/android_vendor_toshiba_paz00" remote="github" revision="refs/heads/cm-11.0-tegra3" />
