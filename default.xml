@@ -501,7 +501,7 @@
   <project path="hardware/compat-wireless" name="zombah/android_hardware_compat-wireless" remote="github" revision="refs/heads/compat-wireless-3.2.5-1" />
   <project path="hardware/backports" name="zombah/backports" remote="github" revision="refs/heads/backports-3.12.8-1" />
   <!-- <project path="external/bluetooth/bluedroid" name="zombah/android_external_bluetooth_bluedroid" remote="github" revision="refs/heads/cm-11.0-ac100" /> -->
-  <project path="frameworks/native" name="zombah/android_frameworks_native" remote="github" revision="refs/heads/cm-11.0-ac100" />
+  <project path="frameworks/native" name="zombah/android_frameworks_native" remote="github" revision="refs/heads/cm-11.0-ac100-4.4.3" />
   <!-- <project path="external/skia" name="zombah/android_external_skia" remote="github" revision="refs/heads/cm-11.0-ac100" /> -->
   <project path="frameworks/av" name="zombah/android_frameworks_av" remote="github" revision="refs/heads/cm-11.0-ac100" />
   <project path="vendor/mbm" name="ac100-ru/vendor_mbm" remote="github" revision="refs/heads/cm-11.0-ac100" />
