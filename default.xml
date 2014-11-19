@@ -338,6 +338,7 @@
 
 <!-- AC100 Specific -->
   <project path="android" name="zombah/android" remote="github" revision="refs/heads/jellybean-ac100-devel" />
+  <project path="kernel/toshiba/ac100" name="zombah/android_kernel_toshiba_ac100" remote="github" revision="refs/heads/rel-15r7-ac100-jellybean" />
   <project path="kernel/toshiba/grouper" name="ac100-ru/android_kernel_asus_grouper" remote="github" revision="refs/heads/jellybean-ac100-devel" />
   <project path="device/toshiba/paz00-common" name="zombah/android_device_toshiba_paz00-common" remote="github" revision="refs/heads/jellybean-devel" />
   <project path="device/toshiba/ac100" name="zombah/android_device_toshiba_ac100" remote="github" revision="refs/heads/jellybean-devel" />
