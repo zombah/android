@@ -338,10 +338,4 @@
 
 <!-- AC100 Specific -->
   <project path="android" name="zombah/android" remote="github" revision="refs/heads/jellybean-ac100-devel" />
-  <project path="kernel/toshiba/ac100" name="ac100-ru/picasso-kernel" remote="github" revision="refs/heads/3.18-paz00" />
-  <project path="device/toshiba/paz00-common" name="zombah/android_device_toshiba_paz00-common" remote="github" revision="refs/heads/jellybean-devel" />
-  <project path="device/toshiba/ac100" name="zombah/android_device_toshiba_ac100" remote="github" revision="refs/heads/jellybean-devel" />
-  <project path="vendor/toshiba/paz00" name="zombah/android_vendor_toshiba_paz00" remote="github" revision="refs/heads/jellybean" />
-  <project path="hardware/backports" name="zombah/backports" remote="github" revision="refs/heads/backports-3.19-rc1-1" />
-  <project path="vendor/mbm" name="ac100-ru/vendor_mbm" remote="github" revision="refs/heads/ac100" />
 </manifest>
